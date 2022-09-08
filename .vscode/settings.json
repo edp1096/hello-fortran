@@ -1,0 +1,9 @@
+{
+    "fortran.provide.hover": "Built-in",
+    "fortran.provide.autocomplete": "Built-in",
+    "fortran.provide.symbols": "Both",
+    "fortran.formatting.formatter": "fprettify",
+    "fortran.formatting.findentArgs": ["-Cn", "-Rr"],
+    "fortran.formatting.fprettifyArgs": ["--whitespace-comma", "--enable-decl"],
+    "fortran.preferredCase": "uppercase",
+}
