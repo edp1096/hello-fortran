@@ -18,8 +18,10 @@
 
 ## Compile
 ```powershll
-gfortran -fallow-argument-mismatch -std=legacy -o out.exe hello.f
-gfortran -fallow-argument-mismatch -std=legacy -o out.exe hello.f90
+# gfortran -fallow-argument-mismatch -std=legacy -o out.exe hello.f
+# gfortran -fallow-argument-mismatch -std=legacy -o out.exe hello.f90
+gfortran -std=legacy -o out.exe hello.f
+gfortran -std=legacy -o out.exe hello.f90
 ```
 
 ## Convert f77 to f90
