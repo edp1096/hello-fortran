@@ -8,9 +8,6 @@
 * 강좌
     * https://shlee1990.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4/Fortran
     * https://bd.kma.go.kr/kma2020/dta/edu/KBP57200_Fortran.do?pageNum=5&menuCd=F040304000
-* spice2g6
-    * http://www.mogami.com/unix/spice2g6/spice2g6.html
-    * http://www.intex.tokyo/unix/spice2g6/spice2g6.html
 * etc
     * 변수선언 - https://pcium.tistory.com/12?category=741185
     * http://www.personal.psu.edu/hdk/fortran.html
